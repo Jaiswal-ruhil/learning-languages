@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Inventory Solution</title>
+    <body>
+    	<table border="boarder" height="700px" width="100%">
+    	    <tr colspan="3" height="3%">
+		   <td> Master        |        Billing        |        Reports</td>
+    	    </tr>
+    	    <tr height ="93%">
+    	        <td width="33%">col1</td>
+    	        <td width="33%">col2</td>
+    	        <td width="33%">col3</td>
+    	    </tr>
+    	    <tr>
+    	    	<td colspan="3">command</td>
+    	    </tr>
+    	</table>
+    </body>
+</html>

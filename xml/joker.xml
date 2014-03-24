@@ -1,0 +1,191 @@
+<background>
+  <starttime>
+    <year>2013</year>
+    <month>12</month>
+    <day>1</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<!-- This animation starts at mid night. -->
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker1.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker1.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker2.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker2.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker2.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker3.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker3.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker3.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker4.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker4.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker4.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker5.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker5.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker5.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker6.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker6.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker6.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker7.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker7.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker7.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker8.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker8.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker8.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker9.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker9.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker9.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker10.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker10.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker10.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker11.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker11.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker11.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker12.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker12.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker12.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker13.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker13.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker13.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker14.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker14.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker14.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker15.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker15.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker15.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker16.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker16.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker16.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker17.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker17.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker17.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker18.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker18.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker18.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker19.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker19.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker19.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker20.jpg</to>
+  </transition>
+  <static>
+    <duration>1795.0</duration>
+    <file>/usr/share/backgrounds/The joker/joker20.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/The joker/joker20.jpg</from>
+    <to>/usr/share/backgrounds/The joker/joker1.jpg</to>
+  </transition>
+</background>
